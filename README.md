@@ -1,193 +1,268 @@
-<h1 align="center">
-🚀 LeetCode Problems & Solutions
-</h1>
+<div align="center">
 
-<p align="center">
-Building consistency, one problem at a time.
-</p>
+# 🚀 LeetCode Problems & Solutions
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1200&color=00C4FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+LeetCode+Journey!;Python+%7C+Data+Structures+%7C+Algorithms;Consistency+Builds+Great+Engineers.;Preparing+for+Software+Engineering+Interviews."/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Solving+LeetCode+Every+Day+%F0%9F%9A%80;Python+%7C+Data+Structures+%7C+Algorithms;Interview+Preparation+Journey;Consistency+%3E+Perfection" />
+<br>
 
-</p>
+<img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/Data%20Structures-Algorithms-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-Learning-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/tulsikumar18/Leetcode_problems_and_solutions?style=for-the-badge"/>
+<img src="https://img.shields.io/github/last-commit/tulsikumar18/Leetcode_problems_and_solutions?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=tulsikumar18&label=Repository+Visitors&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
-# 📖 About This Repository
+# 📖 About
 
-This repository contains my **LeetCode solutions** automatically synchronized using **LeetHub v2**.
+Welcome to my **LeetCode Journey** 🚀
 
-The goal of this repository is to:
+This repository serves as my personal archive of **LeetCode solutions**, automatically synchronized using **LeetHub v2**.
 
-- 📚 Master Data Structures & Algorithms
-- 🧠 Improve problem-solving skills
-- 💻 Prepare for Software Engineering interviews
-- 📈 Maintain coding consistency
-- 🚀 Track my learning journey publicly
+My primary goal is not only to solve problems but also to strengthen my understanding of:
 
-Every accepted solution is pushed directly from LeetCode to GitHub.
+- 📚 Data Structures
+- ⚡ Algorithms
+- 🧠 Problem Solving
+- 🎯 Interview Preparation
+- 💻 Clean Python Code
+- 🚀 Consistency & Discipline
+
+Every accepted solution is automatically pushed to this repository.
+
+---
+
+# 🎯 Repository Goals
+
+- ✅ Solve LeetCode consistently
+- ✅ Improve algorithmic thinking
+- ✅ Learn multiple approaches
+- ✅ Optimize time & space complexity
+- ✅ Prepare for Software Engineering interviews
+- ✅ Build strong DSA fundamentals
 
 ---
 
 # 🛠 Tech Stack
 
-<p align="left">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux"/>
 
-</p>
+</div>
 
 ---
 
-# 📂 Repository Structure
+# 🧠 Topics Covered
+
+| Category | Status |
+|----------|--------|
+| ✅ Arrays | In Progress |
+| ✅ Strings | In Progress |
+| ✅ Hash Maps | In Progress |
+| ✅ Two Pointers | In Progress |
+| ✅ Sliding Window | In Progress |
+| ⏳ Stack | Coming Soon |
+| ⏳ Queue | Coming Soon |
+| ⏳ Linked List | Coming Soon |
+| ⏳ Trees | Coming Soon |
+| ⏳ Binary Search Tree | Coming Soon |
+| ⏳ Graphs | Coming Soon |
+| ⏳ Heap / Priority Queue | Coming Soon |
+| ⏳ Dynamic Programming | Coming Soon |
+| ⏳ Greedy | Coming Soon |
+| ⏳ Backtracking | Coming Soon |
+| ⏳ Trie | Coming Soon |
+| ⏳ Bit Manipulation | Coming Soon |
+
+---
+
+# 📈 Learning Progress
 
 ```
+Arrays               ███████████████████░ 95%
+
+Strings              ████████████████░░░░ 85%
+
+Hash Maps            █████████████░░░░░░░ 75%
+
+Sliding Window       ███████████░░░░░░░░░ 65%
+
+Binary Search        █████████░░░░░░░░░░░ 55%
+
+Trees                █████░░░░░░░░░░░░░░░ 30%
+
+Graphs               ███░░░░░░░░░░░░░░░░░ 20%
+
+Dynamic Programming  ██░░░░░░░░░░░░░░░░░░ 15%
+```
+
+---
+
+# 🗂 Repository Structure
+
+```text
 Leetcode_problems_and_solutions/
+
 │
+
 ├── 0001-two-sum
+
 ├── 0049-group-anagrams
+
+├── 0125-valid-palindrome
+
+├── 0217-contains-duplicate
+
 ├── 0438-find-all-anagrams-in-a-string
-├── ...
+
 │
+
 └── README.md
 ```
 
-Each folder contains:
+---
 
-- ✅ Problem Statement
-- ✅ Python Solution
-- ✅ Accepted Code
+# 💡 Problem Solving Strategy
+
+Whenever applicable, I try to understand multiple approaches before settling on the optimal one.
+
+✔ Brute Force
+
+✔ Better Approach
+
+✔ Optimal Solution
+
+✔ Time Complexity
+
+✔ Space Complexity
+
+✔ Dry Run
+
+✔ Python Explanation
+
+✔ Interview Notes
+
+The objective is to **understand concepts instead of memorizing solutions.**
 
 ---
 
-# 🎯 Topics Covered
+# 📅 DSA Roadmap
 
-- Arrays
-- Strings
-- Hash Maps
-- Sliding Window
-- Two Pointers
-- Stack
-- Queue
-- Binary Search
-- Linked List
-- Trees
-- Binary Search Trees
-- Graphs
-- Backtracking
-- Dynamic Programming
-- Greedy Algorithms
-- Heap / Priority Queue
-- Trie
-- Bit Manipulation
-- Prefix Sum
-- Recursion
-- Matrix
-- Union Find
+```
+✅ Arrays
 
-More topics will be added as I progress.
+✅ Strings
 
----
+✅ HashMap
 
-# 📊 Progress
+✅ Two Pointer
 
-| Difficulty | Status |
-|------------|---------|
-| 🟢 Easy | ✅ In Progress |
-| 🟠 Medium | ✅ In Progress |
-| 🔴 Hard | 🚀 Coming Soon |
+✅ Sliding Window
 
----
+⬜ Stack
 
-# 📅 Goal
+⬜ Queue
 
-- ✅ Solve LeetCode consistently
-- ✅ Learn multiple approaches
-- ✅ Understand Time & Space Complexity
-- ✅ Improve interview problem-solving
-- ✅ Reach 500+ solved problems
+⬜ Binary Search
+
+⬜ Linked List
+
+⬜ Trees
+
+⬜ BST
+
+⬜ Graph
+
+⬜ Heap
+
+⬜ Trie
+
+⬜ DP
+
+⬜ Backtracking
+
+⬜ Greedy
+
+⬜ Segment Tree
+```
 
 ---
 
-# 💡 Solution Approach
+# 📊 Repository Highlights
 
-Whenever possible, I try to include:
+✨ Automatically synced with LeetHub v2
 
-- Brute Force Approach
-- Better Approach
-- Optimal Approach
-- Time Complexity
-- Space Complexity
-- Dry Run
-- Python Explanation
+✨ Python-based solutions
 
-This helps reinforce concepts rather than simply memorizing code.
+✨ Interview-focused practice
 
----
+✨ Clean folder organization
 
-# 📈 GitHub Stats
+✨ Consistent daily updates
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tulsikumar18&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=tulsikumar18&theme=tokyonight"/>
-
-</p>
+✨ Continuous learning journey
 
 ---
 
-# 🏆 Languages
+# 🎯 Current Goal
 
-<p align="center">
+🎯 Solve **500+ LeetCode Problems**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulsikumar18&layout=compact&theme=tokyonight"/>
+📈 Master all major DSA patterns
 
-</p>
-
----
-
-# 🌟 Why This Repository?
-
-This repository serves as my personal DSA journal where I document my journey of solving coding interview problems.
-
-Instead of just collecting accepted solutions, I focus on:
-
-- Understanding concepts
-- Writing clean code
-- Optimizing solutions
-- Learning multiple approaches
-- Improving problem-solving patterns
+🚀 Become interview-ready for top product-based companies
 
 ---
 
-# 🤝 Connect With Me
+# 📚 Why this Repository?
 
-<p align="left">
+Instead of treating LeetCode as just a platform to solve problems, I use this repository as a **knowledge base** to document my journey.
+
+This repository reflects:
+
+- Consistency
+- Curiosity
+- Continuous Improvement
+- Problem Solving
+- Interview Preparation
+
+---
+
+# 🤝 Connect with Me
+
+<div align="center">
 
 <a href="https://github.com/tulsikumar18">
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/tulsi-kumar-yadav-2b749627a/">
+
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
 </a>
 
-</p>
+</div>
 
 ---
 
-# ⭐ If you found this repository helpful
+<div align="center">
 
-Please consider giving it a ⭐.
+### ⭐ If you found this repository useful, consider giving it a Star!
 
-It motivates me to continue solving and sharing more problems.
+> *"Consistency beats intensity. One problem every day is better than solving 100 problems once."*
 
----
+### Happy Coding 🚀
 
-<p align="center">
-
-<b>Happy Coding 🚀</b>
-
-</p>
+</div>
