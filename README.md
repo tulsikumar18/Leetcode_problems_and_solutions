@@ -104,31 +104,6 @@ Graphs               ███░░░░░░░░░░░░░░░░�
 
 Dynamic Programming  ██░░░░░░░░░░░░░░░░░░ 15%
 ```
-
----
-
-# 🗂 Repository Structure
-
-```text
-Leetcode_problems_and_solutions/
-
-│
-
-├── 0001-two-sum
-
-├── 0049-group-anagrams
-
-├── 0125-valid-palindrome
-
-├── 0217-contains-duplicate
-
-├── 0438-find-all-anagrams-in-a-string
-
-│
-
-└── README.md
-```
-
 ---
 
 # 💡 Problem Solving Strategy
@@ -197,31 +172,7 @@ The objective is to **understand concepts instead of memorizing solutions.**
 
 ---
 
-# 📊 Repository Highlights
 
-✨ Automatically synced with LeetHub v2
-
-✨ Python-based solutions
-
-✨ Interview-focused practice
-
-✨ Clean folder organization
-
-✨ Consistent daily updates
-
-✨ Continuous learning journey
-
----
-
-# 🎯 Current Goal
-
-🎯 Solve **500+ LeetCode Problems**
-
-📈 Master all major DSA patterns
-
-🚀 Become interview-ready for top product-based companies
-
----
 
 # 📚 Why this Repository?
 
