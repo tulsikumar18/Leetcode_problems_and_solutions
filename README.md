@@ -217,3 +217,15 @@ This repository reflects:
 ### Happy Coding 🚀
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
