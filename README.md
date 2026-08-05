@@ -225,6 +225,7 @@ This repository reflects:
 | ------- |
 | [0001-two-sum](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -237,4 +238,12 @@ This repository reflects:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
