@@ -227,6 +227,7 @@ This repository reflects:
 | [0053-maximum-subarray](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0209-minimum-size-subarray-sum](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -248,4 +249,16 @@ This repository reflects:
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0054-spiral-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
