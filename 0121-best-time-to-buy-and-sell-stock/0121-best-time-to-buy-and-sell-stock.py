@@ -5,22 +5,16 @@ class Solution(object):
         :rtype: int
         """
         
-        n = len(prices)
-        min_price = float('inf')
         max_profit = 0
+        min_prices = float('inf')
 
-        for i in range(n):
+        for i in range(len(prices)):
 
-            if prices[i] < min_price:
-                min_price = prices[i]
-
+            if prices[i] < min_prices:
+                min_prices = prices[i]
             else:
-                profit = prices[i] - min_price
+                profit = prices[i] - min_prices
                 max_profit = max(max_profit, profit)
+
         return max_profit
-
-
-
-           
-
 
