@@ -234,6 +234,7 @@ This repository reflects:
 | ------- |
 | [0001-two-sum](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0049-group-anagrams) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -274,9 +275,14 @@ This repository reflects:
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0206-reverse-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
