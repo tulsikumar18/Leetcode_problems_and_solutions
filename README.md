@@ -271,4 +271,12 @@ This repository reflects:
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0049-group-anagrams) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
