@@ -7,24 +7,20 @@ class Solution(object):
         """
 
 
+        min_len = float('inf')
+        curr_sum = 0
+        left = 0
+
         if sum(nums) < target:
             return 0
-            
-        left = 0
-        cur_sum = 0
-        ans = float('inf')
 
         for right in range(len(nums)):
 
-            cur_sum += nums[right]
+            curr_sum += nums[right]
 
-
-            while cur_sum >= target:
-
-                ans = min(ans, right - left + 1)
-
-                cur_sum -= nums[left]
+            while curr_sum >= target:
+                min_len = min(min_len,right - left + 1)
+                curr_sum -= nums[left]
                 left += 1
-
-        return ans
         
+        return min_len
