@@ -226,6 +226,7 @@ This repository reflects:
 | [0001-two-sum](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0054-spiral-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -238,6 +239,7 @@ This repository reflects:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Matrix
 |  |
 | ------- |
