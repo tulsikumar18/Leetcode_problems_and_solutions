@@ -290,4 +290,12 @@ This repository reflects:
 | [0160-intersection-of-two-linked-lists](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
