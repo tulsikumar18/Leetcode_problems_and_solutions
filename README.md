@@ -233,6 +233,7 @@ This repository reflects:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Divide and Conquer
@@ -267,6 +268,7 @@ This repository reflects:
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0049-group-anagrams) |
 ## Sorting
 |  |
@@ -304,4 +306,8 @@ This repository reflects:
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0225-implement-stack-using-queues) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
