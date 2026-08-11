@@ -6,11 +6,10 @@ class Solution(object):
         :rtype: int
         """
 
-
-        min_len = float('inf')
         curr_sum = 0
         left = 0
 
+        min_len = float('inf')
         if sum(nums) < target:
             return 0
 
@@ -19,8 +18,8 @@ class Solution(object):
             curr_sum += nums[right]
 
             while curr_sum >= target:
-                min_len = min(min_len,right - left + 1)
+                min_len = min(min_len, right - left + 1)
                 curr_sum -= nums[left]
                 left += 1
-        
+
         return min_len
