@@ -6,42 +6,53 @@ class Solution(object):
         """
 
         res = []
+        row = len(matrix)
+        col = len(matrix[0])
 
-        top = 0 
-        right = len(matrix[0]) - 1  # 3
-        bottom = len(matrix) - 1 # 2
         left = 0
+        right = col - 1
+        top = 0
+        bottom = row - 1
 
         while left <= right and top <= bottom:
 
-            # left -> right 
+            # first loop..
+            for j in range(left , right + 1 ):
 
-            for j in range(left , right + 1):
                 res.append(matrix[top][j])
-
             top += 1
+            # second loop..
+            for j in range(top , bottom + 1):
 
-            # top -> bottom
-
-            for j in range (top , bottom + 1):
                 res.append(matrix[j][right])
             right -= 1
 
-            # right -> left
+            # 3rd loop..
 
             if top <= bottom:
-                for j in range(right , left-1 , -1):
+
+                for j in range(right , left - 1 , -1):
+
                     res.append(matrix[bottom][j])
 
                 bottom -= 1
 
-            # bottom -> top..
+            # 4th loop..
             if left <= right:
-                for j in range(bottom , top-1 , -1 ):
+
+                for j in range(bottom, top-1 , -1):
                     res.append(matrix[j][left])
-                
+
                 left += 1
 
         return res
 
 
+
+
+
+
+
+
+
+       
