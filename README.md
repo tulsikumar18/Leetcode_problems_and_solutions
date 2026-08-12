@@ -273,6 +273,7 @@ This repository reflects:
 | [0013-roman-to-integer](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0049-group-anagrams) |
+| [0680-valid-palindrome-ii](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -293,6 +294,7 @@ This repository reflects:
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0680-valid-palindrome-ii](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
@@ -319,4 +321,8 @@ This repository reflects:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
