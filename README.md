@@ -271,6 +271,7 @@ This repository reflects:
 | ------- |
 | [0012-integer-to-roman](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0049-group-anagrams) |
 ## Sorting
 |  |
@@ -297,6 +298,7 @@ This repository reflects:
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0225-implement-stack-using-queues) |
 ## Design
@@ -313,4 +315,8 @@ This repository reflects:
 | ------- |
 | [0012-integer-to-roman](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0013-roman-to-integer) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
