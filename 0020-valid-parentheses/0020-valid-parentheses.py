@@ -4,32 +4,38 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-
-
-
         stack = []
-        open_chrs = '([{'
 
-        for i in range(len(s)):
-
-            if s[i] in open_chrs:
-                stack.append(s[i])
-
+        pairs = {
+            ')': '(',
+            ']': '[',
+            '}': '{'
+        }
+        
+        for ch in s:
+            ## opening brackets , simply push it into stack..
+            if ch in '({[':
+                stack.append(ch)
+            
             else:
+                # stack shouldn't be empty..
                 if stack:
-
-                    if (s[i] == ')' and stack[-1] == '(') or (s[i] == ']' and stack[-1] == '[') or (s[i] == '}' and stack[-1] == '{'):
-                        stack.pop(-1)
-
-                    else:
+                    if stack[-1] != pairs[ch]:
                         return False
+                    else:
+                        stack.pop(-1)
+                
                 else:
                     return False
 
         if stack:
             return False
-        else:
-            return True
+
+        return True
+
+
+
+
     
 
         
