@@ -224,6 +224,7 @@ This repository reflects:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0054-spiral-matrix) |
@@ -251,6 +252,7 @@ This repository reflects:
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
@@ -320,6 +322,7 @@ This repository reflects:
 | ------- |
 | [0012-integer-to-roman](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0048-rotate-image) |
 ## Bracket Sequences
 |  |
 | ------- |
