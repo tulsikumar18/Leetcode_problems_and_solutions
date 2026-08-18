@@ -248,6 +248,7 @@ This repository reflects:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Matrix
 |  |
@@ -323,6 +324,7 @@ This repository reflects:
 | [0012-integer-to-roman](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0070-climbing-stairs) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -331,4 +333,8 @@ This repository reflects:
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0680-valid-palindrome-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
