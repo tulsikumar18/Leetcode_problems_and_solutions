@@ -5,15 +5,18 @@ class Solution(object):
         :rtype: int
         """
         
-        total_sum  = 0 
-        maxi =  float('-inf')
+        max_sum = float('-inf')
+        total_sum = 0
 
         for i in range(len(nums)):
 
             total_sum += nums[i]
-            maxi = max(maxi , total_sum)
+
+            max_sum = max(max_sum , total_sum)
 
             if total_sum < 0:
                 total_sum = 0
 
-        return maxi
+            
+        return max_sum 
+
