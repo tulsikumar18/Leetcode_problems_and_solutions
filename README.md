@@ -231,6 +231,7 @@ This repository reflects:
 | [0073-set-matrix-zeroes](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -240,6 +241,7 @@ This repository reflects:
 | [0049-group-anagrams](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
 | ------- |
