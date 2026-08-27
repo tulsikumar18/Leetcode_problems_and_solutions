@@ -347,4 +347,5 @@ This repository reflects:
 | [0607-sales-person](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0607-sales-person) |
 | [0627-swap-sex-of-employees](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0627-swap-sex-of-employees) |
 | [1407-top-travellers](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/1407-top-travellers) |
+| [1517-find-users-with-valid-e-mails](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/1517-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
