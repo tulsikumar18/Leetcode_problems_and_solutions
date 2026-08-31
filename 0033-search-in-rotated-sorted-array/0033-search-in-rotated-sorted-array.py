@@ -46,6 +46,8 @@ class Solution(object):
         idx = -1
 
         idx = self.binarySearch(nums , low, pivot-1, target)
+
+        # search only when you have not got the output in the first half..
         if idx == -1:
             idx = self.binarySearch(nums , pivot, high, target)
 
