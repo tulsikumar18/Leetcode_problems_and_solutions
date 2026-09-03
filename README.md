@@ -235,6 +235,7 @@ This repository reflects:
 | [0209-minimum-size-subarray-sum](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -334,6 +335,7 @@ This repository reflects:
 | [0013-roman-to-integer](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0070-climbing-stairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bracket Sequences
 |  |
 | ------- |
