@@ -4,17 +4,16 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        res = []
 
-        while len(nums) != 0:
+        i = 0
+        n = len(nums)
 
-            min1 = min(nums)
-            nums.remove(min1)
+        nums.sort()
 
-            min2 = min(nums)
-            nums.remove(min2)
+        while i < n-1:
 
-            res.append(min2)
-            res.append(min1)
+            nums[i], nums[i+1] = nums[i+1], nums[i]
+            i+=2
 
-        return res
+        return nums
+
