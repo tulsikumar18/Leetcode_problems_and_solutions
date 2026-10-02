@@ -235,6 +235,7 @@ This repository reflects:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2974-minimum-number-game](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/2974-minimum-number-game) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -267,6 +268,7 @@ This repository reflects:
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0054-spiral-matrix) |
+| [2974-minimum-number-game](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/2974-minimum-number-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -296,6 +298,7 @@ This repository reflects:
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0049-group-anagrams) |
+| [2974-minimum-number-game](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/2974-minimum-number-game) |
 ## Linked List
 |  |
 | ------- |
@@ -362,4 +365,8 @@ This repository reflects:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
