@@ -5,18 +5,20 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        
 
-        ## Optimized Approach ..
 
-        no_idx = {}
+        val_idx = {}
 
         for i in range(len(nums)):
 
-            rem_val = target - nums[i]
+            key = target - nums[i]
 
-            if rem_val in no_idx:
-                return [i,no_idx[rem_val]]
+            if key in val_idx: 
 
-            else:
-                no_idx[nums[i]] = i
+                return [i, val_idx[key]]
+
+            val_idx[nums[i]] = i
+
+        
+
+       
