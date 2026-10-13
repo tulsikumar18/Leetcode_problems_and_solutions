@@ -356,6 +356,7 @@ This repository reflects:
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0177-nth-highest-salary) |
 | [0607-sales-person](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0607-sales-person) |
 | [0627-swap-sex-of-employees](https://github.com/tulsikumar18/Leetcode_problems_and_solutions/tree/master/0627-swap-sex-of-employees) |
